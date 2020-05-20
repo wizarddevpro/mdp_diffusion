@@ -10,3 +10,4 @@
 2020-05-20 19:15:36 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
 2020-05-20 15:51:05 +0000 - feat: implement mdp_beta variant alongside shared diffusion backbone
 2020-05-20 17:26:12 +0000 - perf: cache UNet activations where safe across edit iterations
+2020-05-20 13:35:24 +0000 - feat: load pretrained diffusion weights and reuse native generative capacity
