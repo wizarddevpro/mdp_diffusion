@@ -8,3 +8,4 @@
 2020-05-19 14:31:53 +0000 - fix: robust handling of empty or overlong edit prompts in UI
 2020-05-20 18:12:08 +0000 - feat: add Gradio app for editing real images with text prompts
 2020-05-20 19:15:36 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
+2020-05-20 15:51:05 +0000 - feat: implement mdp_beta variant alongside shared diffusion backbone
