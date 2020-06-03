@@ -19,3 +19,4 @@
 2020-05-28 19:02:30 +0000 - refactor: unify inference API across mdp_epsilon, mdp_condition, mdp_x, mdp_beta
 2020-05-28 13:17:44 +0000 - fix: align latent schedules when altering the synthesis path from edit text
 2020-06-03 12:13:01 +0000 - fix: align latent schedules when altering the synthesis path from edit text
+2020-06-03 15:38:21 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
