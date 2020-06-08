@@ -22,3 +22,4 @@
 2020-06-03 15:38:21 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
 2020-06-03 11:24:50 +0000 - feat: batch-friendly editing utilities for evaluation splits
 2020-06-08 13:33:24 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
+2020-06-08 12:16:57 +0000 - docs: document prompt syntax and expected behavior per algorithm
