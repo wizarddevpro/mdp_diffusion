@@ -32,3 +32,4 @@
 2020-06-17 19:50:45 +0000 - docs: document prompt syntax and expected behavior per algorithm
 2020-06-17 20:08:42 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
 2020-06-17 09:38:09 +0000 - feat: batch-friendly editing utilities for evaluation splits
+2020-06-17 17:28:31 +0000 - fix: align latent schedules when altering the synthesis path from edit text
