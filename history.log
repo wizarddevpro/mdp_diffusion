@@ -28,3 +28,4 @@
 2020-06-14 14:28:25 +0000 - refactor: unify inference API across mdp_epsilon, mdp_condition, mdp_x, mdp_beta
 2020-06-14 17:54:27 +0000 - docs: README section mapping paper sections to all four implementations
 2020-06-14 19:58:02 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
+2020-06-17 17:53:45 +0000 - feat: add Gradio app for editing real images with text prompts
