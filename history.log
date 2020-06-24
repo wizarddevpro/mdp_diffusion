@@ -38,3 +38,4 @@
 2020-06-24 17:10:00 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
 2020-06-24 10:38:21 +0000 - feat: add Gradio workflow for synthetic image generation and edits
 2020-06-24 13:13:11 +0000 - fix: align latent schedules when altering the synthesis path from edit text
+2020-06-24 15:28:14 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
