@@ -37,3 +37,4 @@
 2020-06-18 18:59:57 +0000 - feat: batch-friendly editing utilities for evaluation splits
 2020-06-24 17:10:00 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
 2020-06-24 10:38:21 +0000 - feat: add Gradio workflow for synthetic image generation and edits
+2020-06-24 13:13:11 +0000 - fix: align latent schedules when altering the synthesis path from edit text
