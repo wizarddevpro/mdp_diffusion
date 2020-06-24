@@ -40,3 +40,4 @@
 2020-06-24 13:13:11 +0000 - fix: align latent schedules when altering the synthesis path from edit text
 2020-06-24 15:28:14 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
 2020-06-24 20:46:52 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
+2020-06-24 14:52:53 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
