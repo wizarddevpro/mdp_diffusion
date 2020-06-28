@@ -42,3 +42,4 @@
 2020-06-24 20:46:52 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
 2020-06-24 14:52:53 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
 2020-06-28 17:48:56 +0000 - feat: batch-friendly editing utilities for evaluation splits
+2020-06-28 17:51:35 +0000 - test: add smoke tests for each MDP variant forward/edit pass
