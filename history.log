@@ -47,3 +47,4 @@
 2020-06-28 12:23:35 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
 2020-07-02 20:52:51 +0000 - feat: add Gradio workflow for synthetic image generation and edits
 2020-07-02 09:16:21 +0000 - feat: load pretrained diffusion weights and reuse native generative capacity
+2020-07-02 10:30:27 +0000 - perf: cache UNet activations where safe across edit iterations
