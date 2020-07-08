@@ -50,3 +50,4 @@
 2020-07-02 10:30:27 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-07-02 14:46:33 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-07-08 11:10:47 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
+2020-07-08 16:13:43 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
