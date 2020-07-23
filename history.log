@@ -54,3 +54,4 @@
 2020-07-08 20:17:11 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
 2020-07-15 20:17:54 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
 2020-07-15 12:37:18 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
+2020-07-23 20:09:16 +0000 - fix: align latent schedules when altering the synthesis path from edit text
