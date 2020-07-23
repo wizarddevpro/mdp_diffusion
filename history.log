@@ -58,3 +58,4 @@
 2020-07-23 13:57:28 +0000 - test: add smoke tests for each MDP variant forward/edit pass
 2020-07-23 16:11:31 +0000 - test: add smoke tests for each MDP variant forward/edit pass
 2020-07-23 15:13:21 +0000 - docs: README section mapping paper sections to all four implementations
+2020-07-23 17:29:14 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
