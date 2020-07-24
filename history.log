@@ -64,3 +64,4 @@
 2020-07-24 18:28:59 +0000 - docs: README section mapping paper sections to all four implementations
 2020-07-24 17:28:36 +0000 - feat: implement mdp_x editing path and integration hooks
 2020-07-24 15:09:29 +0000 - chore: pin diffusers/torch stack and reproducible environment
+2020-07-24 12:25:22 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
