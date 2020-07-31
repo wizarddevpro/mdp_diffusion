@@ -70,3 +70,4 @@
 2020-07-31 10:52:12 +0000 - feat: batch-friendly editing utilities for evaluation splits
 2020-07-31 09:26:28 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
 2020-07-31 09:42:22 +0000 - fix: align latent schedules when altering the synthesis path from edit text
+2020-07-31 15:17:37 +0000 - fix: robust handling of empty or overlong edit prompts in UI
