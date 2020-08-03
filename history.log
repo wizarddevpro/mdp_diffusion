@@ -73,3 +73,4 @@
 2020-07-31 15:17:37 +0000 - fix: robust handling of empty or overlong edit prompts in UI
 2020-08-03 11:59:52 +0000 - feat: add Gradio app for editing real images with text prompts
 2020-08-03 20:14:41 +0000 - docs: document prompt syntax and expected behavior per algorithm
+2020-08-03 12:10:51 +0000 - feat: batch-friendly editing utilities for evaluation splits
