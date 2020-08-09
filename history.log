@@ -76,3 +76,4 @@
 2020-08-03 12:10:51 +0000 - feat: batch-friendly editing utilities for evaluation splits
 2020-08-09 10:38:45 +0000 - docs: document prompt syntax and expected behavior per algorithm
 2020-08-09 14:27:38 +0000 - chore: pin diffusers/torch stack and reproducible environment
+2020-08-09 18:06:24 +0000 - feat: batch-friendly editing utilities for evaluation splits
