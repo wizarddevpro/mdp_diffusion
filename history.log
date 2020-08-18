@@ -84,3 +84,4 @@
 2020-08-12 15:04:09 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-08-12 19:08:52 +0000 - test: add smoke tests for each MDP variant forward/edit pass
 2020-08-18 13:24:10 +0000 - feat: implement mdp_x editing path and integration hooks
+2020-08-18 12:14:36 +0000 - perf: cache UNet activations where safe across edit iterations
