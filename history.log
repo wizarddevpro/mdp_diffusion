@@ -87,3 +87,4 @@
 2020-08-18 12:14:36 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-08-18 11:55:06 +0000 - feat: add Gradio app for editing real images with text prompts
 2020-08-26 20:08:30 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
+2020-08-26 09:09:39 +0000 - perf: cache UNet activations where safe across edit iterations
