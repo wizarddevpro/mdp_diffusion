@@ -92,3 +92,4 @@
 2020-08-27 12:24:45 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-08-27 11:59:56 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-08-27 09:03:02 +0000 - feat: implement mdp_beta variant alongside shared diffusion backbone
+2020-08-27 18:59:48 +0000 - docs: README section mapping paper sections to all four implementations
