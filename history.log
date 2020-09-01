@@ -97,3 +97,4 @@
 2020-09-01 10:09:19 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-09-01 20:20:00 +0000 - feat: load pretrained diffusion weights and reuse native generative capacity
 2020-09-01 20:16:55 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
+2020-09-01 19:48:58 +0000 - test: add smoke tests for each MDP variant forward/edit pass
