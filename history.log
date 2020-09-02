@@ -101,3 +101,4 @@
 2020-09-01 19:14:37 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
 2020-09-02 18:48:51 +0000 - fix: robust handling of empty or overlong edit prompts in UI
 2020-09-02 19:31:07 +0000 - fix: robust handling of empty or overlong edit prompts in UI
+2020-09-02 18:10:34 +0000 - docs: document prompt syntax and expected behavior per algorithm
