@@ -103,3 +103,4 @@
 2020-09-02 19:31:07 +0000 - fix: robust handling of empty or overlong edit prompts in UI
 2020-09-02 18:10:34 +0000 - docs: document prompt syntax and expected behavior per algorithm
 2020-09-02 11:20:33 +0000 - feat: load pretrained diffusion weights and reuse native generative capacity
+2020-09-09 14:21:38 +0000 - docs: README section mapping paper sections to all four implementations
