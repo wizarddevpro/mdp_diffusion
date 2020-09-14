@@ -109,3 +109,4 @@
 2020-09-09 15:50:16 +0000 - feat: implement mdp_beta variant alongside shared diffusion backbone
 2020-09-09 16:08:31 +0000 - feat: load pretrained diffusion weights and reuse native generative capacity
 2020-09-09 17:09:47 +0000 - chore: pin diffusers/torch stack and reproducible environment
+2020-09-14 20:43:33 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
