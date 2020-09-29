@@ -121,3 +121,4 @@
 2020-09-21 12:20:33 +0000 - feat: implement mdp_beta variant alongside shared diffusion backbone
 2020-09-21 19:21:10 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
 2020-09-29 15:28:24 +0000 - perf: cache UNet activations where safe across edit iterations
+2020-09-29 20:01:08 +0000 - feat: batch-friendly editing utilities for evaluation splits
