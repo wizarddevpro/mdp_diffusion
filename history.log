@@ -127,3 +127,4 @@
 2020-10-03 11:28:00 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
 2020-10-03 15:46:16 +0000 - feat: load pretrained diffusion weights and reuse native generative capacity
 2020-10-03 10:36:20 +0000 - test: add smoke tests for each MDP variant forward/edit pass
+2020-10-03 13:41:31 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
