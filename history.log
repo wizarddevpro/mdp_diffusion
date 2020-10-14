@@ -131,3 +131,4 @@
 2020-10-07 18:54:09 +0000 - docs: document prompt syntax and expected behavior per algorithm
 2020-10-07 12:20:18 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
 2020-10-07 12:21:55 +0000 - feat: add Gradio app for editing real images with text prompts
+2020-10-14 14:39:53 +0000 - refactor: unify inference API across mdp_epsilon, mdp_condition, mdp_x, mdp_beta
