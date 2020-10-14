@@ -133,3 +133,4 @@
 2020-10-07 12:21:55 +0000 - feat: add Gradio app for editing real images with text prompts
 2020-10-14 14:39:53 +0000 - refactor: unify inference API across mdp_epsilon, mdp_condition, mdp_x, mdp_beta
 2020-10-14 15:07:08 +0000 - feat: implement mdp_x editing path and integration hooks
+2020-10-14 12:13:20 +0000 - fix: robust handling of empty or overlong edit prompts in UI
