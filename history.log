@@ -138,3 +138,4 @@
 2020-10-14 11:31:02 +0000 - feat: implement mdp_x editing path and integration hooks
 2020-10-16 16:00:11 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-10-16 13:02:50 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
+2020-10-16 15:35:36 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
