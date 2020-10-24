@@ -140,3 +140,4 @@
 2020-10-16 13:02:50 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
 2020-10-16 15:35:36 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
 2020-10-24 10:02:11 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
+2020-10-24 10:19:52 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
