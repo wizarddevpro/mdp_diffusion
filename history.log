@@ -149,3 +149,4 @@
 2020-11-08 10:27:42 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-11-08 16:58:56 +0000 - fix: numerical stability in noise injection for mdp_epsilon path
 2020-11-08 20:52:27 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
+2020-11-12 12:03:24 +0000 - chore: pin diffusers/torch stack and reproducible environment
