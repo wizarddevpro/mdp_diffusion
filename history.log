@@ -154,3 +154,4 @@
 2020-11-12 17:31:24 +0000 - feat: implement mdp_beta variant alongside shared diffusion backbone
 2020-11-12 09:38:36 +0000 - feat: implement mdp_x editing path and integration hooks
 2020-11-12 12:33:22 +0000 - perf: cache UNet activations where safe across edit iterations
+2020-11-19 15:51:11 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
