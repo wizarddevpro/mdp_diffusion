@@ -163,3 +163,4 @@
 2020-11-26 10:16:12 +0000 - perf: cache UNet activations where safe across edit iterations
 2020-12-04 17:49:04 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
 2020-12-04 19:28:46 +0000 - feat: add Gradio workflow for synthetic image generation and edits
+2020-12-04 11:29:31 +0000 - fix: robust handling of empty or overlong edit prompts in UI
