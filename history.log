@@ -161,3 +161,4 @@
 2020-11-26 20:18:50 +0000 - refactor: unify inference API across mdp_epsilon, mdp_condition, mdp_x, mdp_beta
 2020-11-26 14:15:42 +0000 - feat: add Gradio workflow for synthetic image generation and edits
 2020-11-26 10:16:12 +0000 - perf: cache UNet activations where safe across edit iterations
+2020-12-04 17:49:04 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
