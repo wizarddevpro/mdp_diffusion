@@ -167,3 +167,4 @@
 2020-12-09 13:22:40 +0000 - docs: cite arXiv MDP-Diffusion and contrast with single-algorithm reference repo
 2020-12-09 20:36:01 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
 2020-12-09 15:18:55 +0000 - docs: README section mapping paper sections to all four implementations
+2020-12-09 14:57:52 +0000 - test: add smoke tests for each MDP variant forward/edit pass
