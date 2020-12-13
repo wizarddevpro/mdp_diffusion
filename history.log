@@ -172,3 +172,4 @@
 2020-12-13 11:11:10 +0000 - docs: README section mapping paper sections to all four implementations
 2020-12-13 20:55:44 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
 2020-12-13 19:35:12 +0000 - feat: implement mdp_epsilon variant from MDP-Diffusion paper
+2020-12-13 14:31:33 +0000 - test: add smoke tests for each MDP variant forward/edit pass
