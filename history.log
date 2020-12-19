@@ -178,3 +178,4 @@
 2020-12-19 11:22:52 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
 2020-12-19 18:39:21 +0000 - chore: pin diffusers/torch stack and reproducible environment
 2020-12-19 18:39:02 +0000 - feat: implement mdp_x editing path and integration hooks
+2020-12-19 17:31:56 +0000 - feat: add Gradio app for editing real images with text prompts
