@@ -176,3 +176,4 @@
 2020-12-13 18:35:46 +0000 - fix: align latent schedules when altering the synthesis path from edit text
 2020-12-19 11:42:43 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
 2020-12-19 11:22:52 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
+2020-12-19 18:39:21 +0000 - chore: pin diffusers/torch stack and reproducible environment
