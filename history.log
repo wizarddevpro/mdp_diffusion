@@ -180,3 +180,4 @@
 2020-12-19 18:39:02 +0000 - feat: implement mdp_x editing path and integration hooks
 2020-12-19 17:31:56 +0000 - feat: add Gradio app for editing real images with text prompts
 2020-12-26 13:48:51 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
+2020-12-26 15:01:39 +0000 - feat: route diffusion sampling so edit prompts steer the synthesis trajectory
