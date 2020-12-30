@@ -187,3 +187,4 @@
 2020-12-30 17:22:29 +0000 - feat: implement mdp_condition variant for prompt-conditioned denoising
 2020-12-30 17:08:44 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
 2020-12-30 18:59:57 +0000 - docs: document prompt syntax and expected behavior per algorithm
+2020-12-30 17:08:05 +0000 - feat: scaffold MDP text-driven image editing without training a separate editor model
